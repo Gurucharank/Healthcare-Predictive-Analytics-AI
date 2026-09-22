@@ -14,4 +14,4 @@ This project uses AI and Machine Learning to predict 30-day hospital readmission
 ## Quick Setup
 1. Clone repository:
    ```bash
-   git clone [https://github.com/Gurucharank/Healthcare-Predictive-Analytics-AI.git](https://github.com/YOUR_USERNAME/Healthcare-Predictive-Analytics-AI.git)
+   git clone [https://github.com/Gurucharank/Healthcare-Predictive-Analytics-AI.git](https://github.com/Gurucharank/Healthcare-Predictive-Analytics-AI.git)
